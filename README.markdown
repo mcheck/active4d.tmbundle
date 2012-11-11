@@ -7,10 +7,16 @@ To use in sublime text 2 (mac only, for others consult the manual at http://docs
 
 ```
 $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
-$ git clone git://github.com/textmate/active4d.tmbundle.git Active4D.tmbundle
+$ git clone git://github.com/mcheck/active4d.tmbundle.git Active4D.tmbundle
 ```
 
 No need to restart sublime, it will just start working.  As far as I can tell, anyway.
+
+I also placed the theme file in gist.  It can be moved to the same location:
+```
+$ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+$ git clone git://gist.github.com/4056643.git Active4D.tmTheme
+```
 
 ### Authors and Contributors
 Aparajita Fishman (@aparajita)
